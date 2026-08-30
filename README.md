@@ -6,7 +6,7 @@ Submission repository for Assignment 1. This README describes the repository
 layout, how to set up the environment, and how to reproduce each question's
 results.
 
-Demonstration video at:
+Demonstration video at: https://drive.google.com/drive/folders/1oJ7FvBQ2vwi2tEtPNUdVga3TEE1GH678?usp=sharing
 
 ---
 
@@ -131,7 +131,7 @@ repository's `README.md` and `PARTNER_B.md`.
 | This repository | `https://github.com/Kevii137/AIops-Assignment-1` |
 | Q4 repository | `https://github.com/Kevii137/AIops-A1Q4` |
 | 1-page PDF write-up | `report.pdf` |
-| Demonstration video | `<drive-link>` |
+| Demonstration video | `https://drive.google.com/drive/folders/1oJ7FvBQ2vwi2tEtPNUdVga3TEE1GH678?usp=sharing` |
 
 ## AI Usage
 
